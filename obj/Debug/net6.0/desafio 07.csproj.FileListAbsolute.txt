@@ -1,0 +1,30 @@
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\desafio 07.exe
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\desafio 07.deps.json
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\desafio 07.runtimeconfig.json
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\desafio 07.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\ref\desafio 07.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\desafio 07.pdb
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\ref\desafio 07.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.pdb
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.genruntimeconfig.cache
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Guilherme\Documents\UBUNTU\Desafio_07\desafio 07\desafio 07\obj\Debug\net6.0\desafio 07.csproj.CopyComplete
